@@ -9,6 +9,12 @@ html {
   }
 }
 
+.divisor{
+  height: 3px;
+  background-color:red;
+  width: 100%;
+}
+
 a {
   text-decoration: none !important
 }
